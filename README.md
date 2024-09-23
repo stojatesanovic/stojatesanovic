@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stojanka Tešanović, I am graduate of Computer Science at Singidunum University and now I am in my 1st year of Data Science master program
+- 👋 Hi, I’m Stojanka Tešanović, I am graduate of Computer Science at Singidunum University and now I am in my 2nd year of Data Science master program
 - 👀 I’m interested in web development and artificial inteligence
 - 🌱 I’m currently learning more about data science
 - 💞️ I’m looking to extend my knowledge by working on projects
